@@ -1,20 +1,9 @@
+# Pose Detection using MediaPipe
 
 This Python script utilizes the MediaPipe library to detect human poses in images and annotate them with landmark points.
 Here's a README.md for your code:
 
 ---
-## Results
-
-# Input
-(https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/1.jpg)
-
-# Output
-(https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/output.jpg)
-
-
-# Pose Detection using MediaPipe
-
-This Python script utilizes the MediaPipe library to detect human poses in images and annotate them with landmark points.
 
 ## Prerequisites
 
@@ -47,6 +36,17 @@ Before running the script, ensure you have the following libraries installed:
    ```
 
    This will detect poses in the input image, annotate it with landmark points, and save the annotated image as specified.
+# Results
+
+## Input
+(https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/1.jpg)
+
+## Output
+(https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/output.jpg)
+
+# Pose Detection using MediaPipe
+
+This Python script utilizes the MediaPipe library to detect human poses in images and annotate them with landmark points.
 
 ## Example
 
@@ -93,6 +93,11 @@ detect_pose(input_image_path, output_image_path)
 ```
 
 After running the script, you will have an annotated image named `output.jpg` in the same directory.
+
+# Contacts
+prajwalkulkarni2002@gmail.com
+
+venkateshjmad@gmail.com
 
 ## Notes
 
