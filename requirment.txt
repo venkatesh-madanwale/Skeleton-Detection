@@ -1,0 +1,4 @@
+py 3.11
+open cv2
+mediapipe
+flask
