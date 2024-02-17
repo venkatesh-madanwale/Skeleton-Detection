@@ -7,6 +7,7 @@ Here's a README.md for your code:
 
 # Input
 (https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/1.jpg)
+
 # Output
 (https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/output.jpg)
 
