@@ -6,10 +6,9 @@ Here's a README.md for your code:
 ## Results
 
 # Input
-![Uploading 1.jpg…]()
-
+(https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/1.jpg)
 # Output
-![Uploading output.jpg…]()
+(https://github.com/venkatesh-madanwale/Skeleton-Detection/blob/main/static/output.jpg)
 
 
 # Pose Detection using MediaPipe
