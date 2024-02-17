@@ -9,8 +9,11 @@ Here's a README.md for your code:
 
 Before running the script, ensure you have the following libraries installed:
 
+- Python 3.11
 - OpenCV (`cv2`) (`pip install opencv-python`)
 - MediaPipe (`mediapipe`) (`pip install mediapipe`)
+- Flask (`pip install Flask`)
+
 
 ## Usage
 
